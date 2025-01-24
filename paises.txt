@@ -3,3 +3,5 @@ Colombia
 Mexico
 Francia
 Japon
+Italia
+Argentina

@@ -1,7 +1,11 @@
-manzana
 Banana
+d
 Naranja
+d
 fresa
+d
 mango
+d
 Durazno
+d
 piña
